@@ -32,6 +32,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		557C2E482AB2094700353EB7 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
 		55B2A7522AB123FF0084246D = {
 			isa = PBXGroup;
 			children = (
@@ -51,6 +58,7 @@
 		55B2A75D2AB123FF0084246D /* Scrumdinger */ = {
 			isa = PBXGroup;
 			children = (
+				557C2E482AB2094700353EB7 /* Models */,
 				55B2A75E2AB123FF0084246D /* ScrumdingerApp.swift */,
 				55B2A7602AB123FF0084246D /* MeetingView.swift */,
 				55B2A7622AB124010084246D /* Assets.xcassets */,
